@@ -1,10 +1,10 @@
 # Daily-Forecast-
 A Weather API with Daily Forecast 
 
-As a developer I was given the task to create a Daily Weather Api.
+As a developer I was given the task to create a Daily Weather Forecast Api.
 
-In this api one is able to search the weather in each city to plan accordantly, with a daily, hourly, and five day forecast.
+In this api I created one is able to search the weather in each city to plan accordantly, with a daily, hourly, and five day forecast.
 
-Users may find the highs, lows, feels like temp, wind speed, and perception for the day. As well as the temp for the next five days. You may also see the hourly temp, wind speed, and perception for the current day.
+Users may find the highs, lows, feels like temp, humidity, wind speed, and perception for the day. As well as the temp for the next five days. You may also see the hourly temp, feels like, wind speed, and perception for the current day.
 
-Technologies used are Java, Open wether AI, 
+Technologies used were Java, Open weather AI, and DayJ's for the functionality. I did the layout with HTML and styled it with CSS. Thank you and hope you enjoy!
